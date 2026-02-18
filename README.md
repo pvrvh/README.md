@@ -43,14 +43,6 @@
 
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
----
-### 👀 Active Repo
-(https://github-readme-stats.vercel.app/api/pin/?username=pvrvh&repo=Restaurant_POS&theme=radical "Restaurant POS system")](https://github.com/pvrvh/Restaurant_POS)
-
-
-<!-- ### 🏆 Github Status
-![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
-![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) -->
 
  ---
 ### 📫 Get In Touch
@@ -60,5 +52,5 @@
 <a href="mailto:parthsarthi2103@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
-⭐️ From [Quan](https://github.com/pvrvh) with :sparkling_heart: 
+⭐️ From [Parth](https://github.com/pvrvh) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
